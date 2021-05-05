@@ -146,7 +146,7 @@ input:checked + .slider::before {
         margin-bottom: 60px;
     }
 
-    article {
+    .flex-container {
         display: flex;
         justify-content: center;
         text-align: center;
